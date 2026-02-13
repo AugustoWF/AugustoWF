@@ -71,5 +71,9 @@ Complete railway telemetry and management ecosystem.
 ## 🤝 Get in Touch
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/51/1b/5c/511b5c874a3ca7879dea97e481a18dee.gif" width="400"/>
+  <img 
+    src="https://media.giphy.com/media/ND3MHuj9vrUjiUsQV4/giphy.gif"
+    width="350"
+    alt="Coding GIF"
+  />
 </p>
