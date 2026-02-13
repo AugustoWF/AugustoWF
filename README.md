@@ -64,6 +64,7 @@ Complete railway telemetry and management ecosystem.
 ## 📫 Contact
 
 - 📧 Email: [augustowf07@gmail.com](mailto:augustowf07@gmail.com)
+- 💼 LinkedIn: [Augusto Wilbert Friedrichsen](https://www.linkedin.com/in/augusto-wilbert-friedrichsen-370b923b0/)
 - 📞 WhatsApp: +55 (47) 99697-2735
 
 ---
