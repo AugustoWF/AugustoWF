@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Augusto!
 
 🎓 Software Engineering Student -
-🏫 Technical High School Graduate — SESI SENAI -
+🏫 Technical High School Graduate (SESI SENAI) -
 💻 Fullstack Developer in Training
 
 I’m currently pursuing a degree in Software Engineering and building practical projects to strengthen my fullstack development skills, focusing on scalable web systems and modern architectures.
