@@ -74,7 +74,7 @@ Complete railway telemetry and management ecosystem.
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/ND3MHuj9vrUjiUsQV4/giphy.gif"
+    src="[https://media.giphy.com/media/ND3MHuj9vrUjiUsQV4/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY25xam51emprZnI5cGZ5bnVidGV2NmxoZDV3dXRqeGk4bHpzNm53aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fHajnG8U7Y8X6/source.gif)"
     width="350"
     alt="Coding GIF"
   />
